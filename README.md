@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a video ghame if you want a new developer to learn how to code a game 
 - 📫 How to reach me 
 - 😄 Pronouns: he
-- ⚡ Fun fact: i ame fransh 
+- ⚡ Fun fact: i am frensh 
 
 <!---
 mitane18/mitane18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
